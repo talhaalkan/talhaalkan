@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talhaalkan
-- 👀 I’m interested in fronted software development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
